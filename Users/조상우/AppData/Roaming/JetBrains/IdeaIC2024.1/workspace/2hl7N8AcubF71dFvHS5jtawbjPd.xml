@@ -1,0 +1,86 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="multi_it_backend2024" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="multi_it_backend2024" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/backend23/work/gittest_main_work/multi_it_backend2024}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="multi_it_backend2024" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file://C:/backend23/work/gittest_main_work/multi_it_backend2024}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file://C:/backend23/work/gittest_main_work/multi_it_backend2024/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="C:\backend23\work\gittest_main_work\multi_it_backend2024\">
+        <shellCommand>
+          <arg value="powershell.exe" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.32975262" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.65864754" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32986537" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32986537" left="0.65864754" />
+    </layoutV2>
+    <recentWindows>
+      <value>Commit</value>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="932" y="159" key="FileChooserDialogImpl" timestamp="1718157388794">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="932" y="159" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1718157388794" />
+    <state x="722" y="137" key="Vcs.Push.Dialog.v2" timestamp="1718157112100">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="722" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1718157112100" />
+    <state x="541" y="287" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1718156778540">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="541" y="287" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.816@0.0.1536.816" timestamp="1718156778540" />
+  </component>
+</project>
